@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: VARSHITHAE
+    database: SAMPLE_PRACTICE
+    schema: VARSHITHA_E
+    tables:
+      - name: PROVIDER
+      - name: PROVIDERADDRESS
+      - name: SEQ_01
+      
+
